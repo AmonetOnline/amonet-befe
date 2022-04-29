@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonJs",
+    "target": "es6",
+    "sourceMap": true,
+    "lib":["es2017", "dom"],
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "outDir": "dist"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
